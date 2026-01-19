@@ -40,13 +40,8 @@ A powerful Streamlit-based web application that performs intelligent text analys
 ## 📂 Project Structure
 
 Text Analyzer/
-
 ├── app.py # Streamlit application (UI + Flow)
-
 ├── backend.py # File reading, summarization, wordcloud, modeling
-
 ├── preprocessing.py # Text cleaning & NLP preprocessing
-
 ├── venv/ # Virtual environment (optional in repo)
-
 └── pycache/

@@ -40,6 +40,7 @@ A powerful Streamlit-based web application that performs intelligent text analys
 ## 📂 Project Structure
 
 Text Analyzer/
+
 │
 ├── app.py # Streamlit application (UI + Flow)
 
